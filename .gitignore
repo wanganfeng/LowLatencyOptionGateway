@@ -1,0 +1,11 @@
+# VS 2022 编译生成文件
+.vs/
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.sln
+*.vcxproj*
